@@ -15,7 +15,7 @@ To finish enter a blank value.
 
 *MSSQL*
 
-Call it directly in SSMS.
+Call it directly in SSMS or use it inside stored procedures.
 Example:
 use <database>
 print dbo.fn_CheckDAMM( 1234 )
