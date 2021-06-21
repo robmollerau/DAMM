@@ -8,11 +8,13 @@ MSSQL : Set database name and execute to createe function
 ## Usage
 
 *C# and Delphi*
+
 When prompted enter digits including DAMM checksum.
 Program will tell if value has a vaid DAMM checksum.
 To finish enter a blank value.
 
 *MSSQL*
+
 Call it directly in SSMS.
 Example:
 use <database>
