@@ -32,7 +32,7 @@ begin
 
   Str := Uppercase( Trim( AValue ) );
 
-  for Ctr := 1 to Length( Str ) do begin
+  for Ctr := 1 to Pred( Length( Str ) ) do begin
 
     if CharInSet( Str[ Ctr ], [ '0'..'9' ] ) then begin
 
