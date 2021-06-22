@@ -8,7 +8,9 @@ MSSQL : Set database name and execute to createe function
 ## Information
 
 DAMM encoding addresses the two most common trascription errors which are single digit mistype and transposed characters. Ie. 1121 (should be 1221) and 6933 (should be 9633).<br />
+<br />
 It is supperior to other checksum calculations such as:<br />
+<br />
 n1+n2+n3...nx - use lowest denominator as checksum<br />
 (((((n1+n2)*n3)+n4)+n5)...nX) - use lowest denominator as checksum<br />
 
