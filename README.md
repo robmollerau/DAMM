@@ -11,8 +11,8 @@ DAMM encoding addresses the two most common trascription errors which are single
 <br />
 It is supperior to other checksum calculations such as:<br />
 <br />
-n1+n2+n3...nx - use lowest denominator as checksum<br />
-(((((n1+n2)*n3)+n4)+n5)...nX) - use lowest denominator as checksum<br />
+Sum Only - n1+n2+n3...nx - use lowest denominator as checksum<br />
+Sum and Multiply - (((((n1+n2)*n3)+n4)+n5)...nX) - use lowest denominator as checksum<br />
 
 ## Usage
 
