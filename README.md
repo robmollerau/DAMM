@@ -3,7 +3,7 @@
 ## Installation
 
 C# and Delphi : Compile and run
-MSSQL : Set database name and execute to createe function
+MSSQL : Set database name and execute to create function
 
 ## Information
 
